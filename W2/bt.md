@@ -24,3 +24,15 @@
 - Đợi root
 
   ![alt](kernelend.png)
+  
+  
+# BÀI TẬP TUẦN 3
+
+## Công việc đã làm: 
+
+- Khởi động rootfs chạy các lệnh ls, cat, echo
+- Chạy lệnh vi
+
+  ![alt](w3_1.png)
+  
+  ![alt](w3_2.png)
